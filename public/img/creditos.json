@@ -1,0 +1,128 @@
+{
+ "productos/RES-001.jpg": {
+  "titulo": "Tenderloin packages.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Tenderloin_packages.jpg",
+  "autor": "Tiia Monto",
+  "licencia": "CC BY-SA 4.0"
+ },
+ "productos/RES-002.jpg": {
+  "titulo": "Galbi 2.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Galbi_2.jpg",
+  "autor": "국립국어원",
+  "licencia": "CC BY-SA 2.0 kr"
+ },
+ "productos/RES-003.jpg": {
+  "titulo": "Hackfleisch-1.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Hackfleisch-1.jpg",
+  "autor": "No machine-readable author provided. Rainer Zenz assumed (based on copyright claims).",
+  "licencia": "CC BY-SA 3.0"
+ },
+ "productos/RES-004.jpg": {
+  "titulo": "DoubleCutSkirtSteak (8325602302).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:DoubleCutSkirtSteak_(8325602302).jpg",
+  "autor": "H. Alexander Talbot",
+  "licencia": "CC BY 2.0"
+ },
+ "productos/RES-005.jpg": {
+  "titulo": "Flank steaks.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Flank_steaks.jpg",
+  "autor": "Pannet",
+  "licencia": "CC BY-SA 4.0"
+ },
+ "productos/CER-001.jpg": {
+  "titulo": "Chef holding a wooden board with two raw seasoned pork chops.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Chef_holding_a_wooden_board_with_two_raw_seasoned_pork_chops.jpg",
+  "autor": "Shixart1985",
+  "licencia": "CC BY 2.0"
+ },
+ "productos/CER-002.jpg": {
+  "titulo": "Baby back pork ribs in butcher shop.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Baby_back_pork_ribs_in_butcher_shop.jpg",
+  "autor": "Tim Evanson",
+  "licencia": "CC BY-SA 2.0"
+ },
+ "productos/CER-003.jpg": {
+  "titulo": "Freshly prepared raw pork belly with red onions and chili peppers.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Freshly_prepared_raw_pork_belly_with_red_onions_and_chili_peppers.jpg",
+  "autor": "Shixart1985",
+  "licencia": "CC BY 2.0"
+ },
+ "productos/POL-001.jpg": {
+  "titulo": "Raw chicken slices.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Raw_chicken_slices.jpg",
+  "autor": "kakyusei",
+  "licencia": "CC0"
+ },
+ "productos/POL-002.jpg": {
+  "titulo": "Raw leg chicken quarters.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Raw_leg_chicken_quarters.jpg",
+  "autor": "Baoothersks",
+  "licencia": "CC BY-SA 4.0"
+ },
+ "productos/POL-003.jpg": {
+  "titulo": "Whole raw chicken - Japan Dec 22 2019.jpeg",
+  "url": "https://commons.wikimedia.org/wiki/File:Whole_raw_chicken_-_Japan_Dec_22_2019.jpeg",
+  "autor": "Nesnad",
+  "licencia": "CC BY 4.0"
+ },
+ "productos/EMB-001.jpg": {
+  "titulo": "Chorizo sausage.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Chorizo_sausage.JPG",
+  "autor": "Jaydoo",
+  "licencia": "CC BY-SA 3.0"
+ },
+ "productos/EMB-002.jpg": {
+  "titulo": "Broken Frankfurter dreams.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Broken_Frankfurter_dreams.jpg",
+  "autor": "Herzi Pinki",
+  "licencia": "CC BY-SA 4.0"
+ },
+ "productos/OTR-001.jpg": {
+  "titulo": "6-Pack-Chicken-Eggs.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:6-Pack-Chicken-Eggs.jpg",
+  "autor": "Evan-Amos",
+  "licencia": "Public domain"
+ },
+ "categorias/res.jpg": {
+  "titulo": "대통령상에 빛나는 행주한우.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:%EB%8C%80%ED%86%B5%EB%A0%B9%EC%83%81%EC%97%90_%EB%B9%9B%EB%82%98%EB%8A%94_%ED%96%89%EC%A3%BC%ED%95%9C%EC%9A%B0.jpg",
+  "autor": "고양축산농협",
+  "licencia": "CC BY-SA 4.0"
+ },
+ "categorias/cerdo.jpg": {
+  "titulo": "HK food ingredient red meat frozen pork chop raw butt steak October 2021 SS2 006.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:HK_food_ingredient_red_meat_frozen_pork_chop_raw_butt_steak_October_2021_SS2_006.jpg",
+  "autor": "Presixlla MOON",
+  "licencia": "CC BY-SA 4.0"
+ },
+ "categorias/pollo.jpg": {
+  "titulo": "Raw chicken for sale.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Raw_chicken_for_sale.jpg",
+  "autor": "ProjectManhattan",
+  "licencia": "CC BY-SA 3.0"
+ },
+ "categorias/embutidos.jpg": {
+  "titulo": "Grocery store in Rome.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Grocery_store_in_Rome.jpg",
+  "autor": "phototram",
+  "licencia": "CC BY 2.0"
+ },
+ "categorias/otros.jpg": {
+  "titulo": "Eggs (5237987733).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Eggs_(5237987733).jpg",
+  "autor": "Moyan Brenn from Italy",
+  "licencia": "CC BY 2.0"
+ },
+ "portada/login.jpg": {
+  "titulo": "A butcher at work cutting meat in Borough Market, London.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:A_butcher_at_work_cutting_meat_in_Borough_Market,_London.jpg",
+  "autor": "Adrian Snood",
+  "licencia": "CC BY 2.0"
+ },
+ "portada/panel.jpg": {
+  "titulo": "LangensteinsButcherACutAboveJuly2008.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:LangensteinsButcherACutAboveJuly2008.jpg",
+  "autor": "Infrogmation of New Orleans",
+  "licencia": "CC BY-SA 3.0"
+ }
+}
